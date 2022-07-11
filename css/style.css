@@ -1,3 +1,7 @@
 header {
     background-color: #2C3E50;
 }
+
+.list_style_none {
+    list-style: none;
+}
